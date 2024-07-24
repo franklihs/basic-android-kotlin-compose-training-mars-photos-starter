@@ -27,7 +27,7 @@ Getting Started
 4. Build and run the sample.
 
 ## [Build this app through hands-on codelabs in the Android Basics with Compose Course](https://developer.android.com/courses/android-basics-compose/course)
-
+git remote remove origin
 ### [Get data from the internet](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet)
 Learn how to use community-developed libraries to connect to a web service to retrieve and display data in your Android Kotlin compose app. 
 
